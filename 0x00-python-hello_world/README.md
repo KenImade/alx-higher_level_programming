@@ -7,3 +7,4 @@ The aim of this project is an introduction to the Python programming language.
 | S/N | File | Description |
 | --- | ---- | ----------- |
 | 1 | 0-run | A shell script that runs a Python script |
+| 2 | 1-run_inline | A shell script that runs Python code |
