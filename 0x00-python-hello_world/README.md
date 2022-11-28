@@ -1,0 +1,9 @@
+# 0x00. Python - Hello, World
+
+This project is part of the ALx Software Engineering Bootcamp.
+
+The aim of this project is an introduction to the Python programming language.
+
+| S/N | File | Description |
+| --- | ---- | ----------- |
+| 1 | 0-run | A shell script that runs a Python script |
