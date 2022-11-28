@@ -14,3 +14,4 @@ The aim of this project is an introduction to the Python programming language.
 | 6 | 5-print_string.py | Prints 3 times a string stored in a variable |
 | 7 | 6-concat.py | Concats two strings |
 | 8 | 7-edges.py | String manipulation |
+| 9 | 8-concat_edges.py | String mainpulation |
