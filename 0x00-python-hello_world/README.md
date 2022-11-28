@@ -8,3 +8,4 @@ The aim of this project is an introduction to the Python programming language.
 | --- | ---- | ----------- |
 | 1 | 0-run | A shell script that runs a Python script |
 | 2 | 1-run_inline | A shell script that runs Python code |
+| 3 | 2-print.py | A python script that prints an exact text followed by a new line |
