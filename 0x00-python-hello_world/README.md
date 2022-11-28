@@ -15,3 +15,4 @@ The aim of this project is an introduction to the Python programming language.
 | 7 | 6-concat.py | Concats two strings |
 | 8 | 7-edges.py | String manipulation |
 | 9 | 8-concat_edges.py | String mainpulation |
+| 10 | 9-easter_egg.py | Prints "The Zen of Python" |
