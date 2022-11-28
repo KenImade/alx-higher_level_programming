@@ -19,3 +19,4 @@ The aim of this project is an introduction to the Python programming language.
 | 11 | 10-check_cycle.c, lists.h | A function in C that checks if a singly linked list has a cycle in it |
 | 12 | 100-write.py | A python script that prints an exact string |
 | 13 | 101-compile | A python script |
+| 14 | 102-magic_calculation.py | A python function |
