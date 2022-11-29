@@ -13,4 +13,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 4 | 4-print_hexa.py | A program that prints all numbers from `0` to `98` in decimal and in hexadecimal |
 | 5 | 5-print_comb2.py | A program that prints numbers from `0` to `99` in double digit form i.e. `00` |
 | 6 | 6-print_comb3.py | A program that prints all possible combinations of two digits |
-| 7 | 7-islower.py | A function that checks for lowercase characters | 
+| 7 | 7-islower.py | A function that checks for lowercase characters |
+| 8 | 8-uppercase.py | A function that prints a string in uppercase | 
