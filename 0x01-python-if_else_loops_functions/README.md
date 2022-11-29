@@ -20,4 +20,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 11 | 11-pow.py | A function that computes `a` to the power of `b` |
 | 12 | 12-fizzbuzz.py | A function that prints 1 to 100 but prints `fizz` for multiples of 3, `buzz` for multiples of 5, and `fizzbuzz` for both multiples of 3 and 5 |
 | 13 | 13-insert_number.c, lists.h | A function in C that inserts a number into a sorted singly linked list |
-| 14 | 100-print_tebahpla.py | A program that prints the ASCII alphabet in reverse order, alternating between uppercase and lowercase | 
+| 14 | 100-print_tebahpla.py | A program that prints the ASCII alphabet in reverse order, alternating between uppercase and lowercase |
+| 15 | 101-remove_char_at.py | A function that creates a copy of the string, removing the character at the position `n` | 
