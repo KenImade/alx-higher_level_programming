@@ -15,4 +15,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 6 | 6-print_comb3.py | A program that prints all possible combinations of two digits |
 | 7 | 7-islower.py | A function that checks for lowercase characters |
 | 8 | 8-uppercase.py | A function that prints a string in uppercase |
-| 9 | 9-print_last_digit.py | A function that prints the last digit of a number | 
+| 9 | 9-print_last_digit.py | A function that prints the last digit of a number |
+| 10 | 10-add.py | A function that adds two numbers | 
