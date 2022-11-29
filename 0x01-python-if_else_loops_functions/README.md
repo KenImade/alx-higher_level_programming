@@ -11,4 +11,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 2 | 2-print_alphabet.py | A program that prints the ASCII alphabet in lowercase |
 | 3 | 3-print_alphabt.py | A program that prints the ASCII alphabet except for `q` and `e` |
 | 4 | 4-print_hexa.py | A program that prints all numbers from `0` to `98` in decimal and in hexadecimal |
-| 5 | 5-print_comb2.py | A program that prints numbers from `0` to `99` in double digit form i.e. `00` | 
+| 5 | 5-print_comb2.py | A program that prints numbers from `0` to `99` in double digit form i.e. `00` |
+| 6 | 6-print_comb3.py | A program that prints all possible combinations of two digits | 
