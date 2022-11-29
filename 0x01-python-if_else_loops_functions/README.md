@@ -17,4 +17,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 8 | 8-uppercase.py | A function that prints a string in uppercase |
 | 9 | 9-print_last_digit.py | A function that prints the last digit of a number |
 | 10 | 10-add.py | A function that adds two numbers |
-| 11 | 11-pow.py | A function that computes `a` to the power of `b` | 
+| 11 | 11-pow.py | A function that computes `a` to the power of `b` |
+| 12 | 12-fizzbuzz.py | A function that prints 1 to 100 but prints `fizz` for multiples of 3, `buzz` for multiples of 5, and `fizzbuzz` for both multiples of 3 and 5 | 
