@@ -16,4 +16,5 @@ The aim of this project is an introduction to If/Else statements, loops, and fun
 | 7 | 7-islower.py | A function that checks for lowercase characters |
 | 8 | 8-uppercase.py | A function that prints a string in uppercase |
 | 9 | 9-print_last_digit.py | A function that prints the last digit of a number |
-| 10 | 10-add.py | A function that adds two numbers | 
+| 10 | 10-add.py | A function that adds two numbers |
+| 11 | 11-pow.py | A function that computes `a` to the power of `b` | 
