@@ -15,3 +15,4 @@ The aim of this project is to learn the following:
 | --- | ---- | ----------- |
 | 0 | 0-print_list_integer.py | A function that prints all integers of a list |
 | 1 | 1-element_at.py | A function that retrieves an element from a list |
+| 2 | 2-replace_in_list.py | A function that replaces an element of a list at a specified position |
