@@ -16,3 +16,4 @@ The aim of this project is to learn the following:
 | 1 | 1-calculation.py | A program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result |
 | 2 | 2-args.py | A program that prints the number of and the list of its arguments |
 | 3 | 3-infinite_add.py | A program that prints the number of and the list of its arguments |
+| 4 | 4-hidden_discovery.py | A program that prints all the names defined by the compiled module `hidden_4.pyc` |
