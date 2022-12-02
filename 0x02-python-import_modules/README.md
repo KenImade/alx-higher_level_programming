@@ -21,3 +21,4 @@ The aim of this project is to learn the following:
 | 6 | 101-easy_print.py | A program that imports all functions from the file `calculator_1.pyi` and handles basic operations |
 | 7 | 101-easy_print.py | A program that prints `#pythoniscool` |
 | 8 | 102-magic_calculation.py | A python function that runs bytecode |
+| 9 | 103_fast_alphabet.py | A program that prints the alphabet in uppercase |
