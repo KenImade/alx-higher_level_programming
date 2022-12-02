@@ -8,3 +8,5 @@ The objectives are to learn higher level programming by learning the programming
 | --- | --------- | ----------- |
 | 1 | 0x00-python_hello_world | An introduction to python programming |
 | 2 | 0x01-python-if_else_loops_functions | Introduction to if else statements and loops in python |
+| 3 | 0x02-python-import_modules | How to create a module and import functions |
+| 4 | 0x03-python-data_structures | An introduction to data structures: Lists, and Tuples in python |
