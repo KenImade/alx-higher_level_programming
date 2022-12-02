@@ -20,3 +20,4 @@ The aim of this project is to learn the following:
 | 5 | 5-variable_load.py | A program that imports the variable `a` from the file `variable_load_5.py` and prints its value |
 | 6 | 101-easy_print.py | A program that imports all functions from the file `calculator_1.pyi` and handles basic operations |
 | 7 | 101-easy_print.py | A program that prints `#pythoniscool` |
+| 8 | 102-magic_calculation.py | A python function that runs bytecode |
