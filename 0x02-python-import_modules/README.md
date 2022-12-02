@@ -15,3 +15,4 @@ The aim of this project is to learn the following:
 | 0 | 0-add.py | A program the imports the function `def add(a, b)` from the file `add_0.py` and prints the result of the addition |
 | 1 | 1-calculation.py | A program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result |
 | 2 | 2-args.py | A program that prints the number of and the list of its arguments |
+| 3 | 3-infinite_add.py | A program that prints the number of and the list of its arguments |
