@@ -11,7 +11,7 @@ The aim of this project is to learn the following:
 - What is a sequence
 - What is tuple and sequence unpacking
 
-| S/N | File | Description |
+| S/N | File(s) | Description |
 | --- | ---- | ----------- |
 | 0 | 0-print_list_integer.py | A function that prints all integers of a list |
 | 1 | 1-element_at.py | A function that retrieves an element from a list |
@@ -26,3 +26,4 @@ The aim of this project is to learn the following:
 | 10 | 10-divisible_by_2.py | A function that finds all multiples of 2 in a list |
 | 11 | 11-delete_at.py | A function that deletes the item at a specified position |
 | 12 | 12-switch.py | A function to swap two values |
+| 13 | 13-is_palindrome.c, lists.h | A function in C that checks if a singly linked list is a palindrome |
