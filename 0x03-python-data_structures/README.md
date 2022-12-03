@@ -25,3 +25,4 @@ The aim of this project is to learn the following:
 | 9 | 9-max_integer.py | A function that finds the biggest integer of a list |
 | 10 | 10-divisible_by_2.py | A function that finds all multiples of 2 in a list |
 | 11 | 11-delete_at.py | A function that deletes the item at a specified position |
+| 12 | 12-switch.py | A function to swap two values |
