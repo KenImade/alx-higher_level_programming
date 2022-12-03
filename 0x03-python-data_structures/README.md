@@ -23,3 +23,4 @@ The aim of this project is to learn the following:
 | 7 | 7-add_tuple.py | A function that adds 2 tuples |
 | 8 | 8-multiple_returns.py | A function that returns a tuple with the length of a string and its first character |
 | 9 | 9-max_integer.py | A function that finds the biggest integer of a list |
+| 10 | 10-divisible_by_2.py | A function that finds all multiples of 2 in a list |
