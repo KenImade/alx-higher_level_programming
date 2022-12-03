@@ -21,3 +21,4 @@ The aim of this project is to learn the following:
 | 5 | 5-no_c.py | A function that removes all characters `c` and `C` from a string |
 | 6 | 6-print_matrix_integer.py | A function that prints a matrix of integers |
 | 7 | 7-add_tuple.py | A function that adds 2 tuples |
+| 8 | 8-multiple_returns.py | A function that returns a tuple with the length of a string and its first character |
