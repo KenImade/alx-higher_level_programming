@@ -27,3 +27,4 @@ The aim of this project is to learn the following:
 | 11 | 11-delete_at.py | A function that deletes the item at a specified position |
 | 12 | 12-switch.py | A function to swap two values |
 | 13 | 13-is_palindrome.c, lists.h | A function in C that checks if a singly linked list is a palindrome |
+| 14 | 100-print_python_list_info.c | A C function that prints some basic info about Python lists |
