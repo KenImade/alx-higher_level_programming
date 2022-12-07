@@ -19,3 +19,4 @@ The aim of this project is to learn the following:
 | 1 | 1-search_replace.py | a function that replaces all occurrences of an element by another in a new list |
 | 2 | 2-uniq_add.py | a function that adds all unique integers in a list (only once for each integer) |
 | 3 | 3-common_elements.py | a function that returns a set of common elements in two sets. |
+| 4 | 4-only_diff_elements.py | a function that returns a set of all elements present in only one set. |
