@@ -28,3 +28,4 @@ The aim of this project is to learn the following:
 | 10 | 10-best_score.py | a function that returns a key with the biggest integer value. |
 | 11 | 11-multiply_list_map.py |  a function that returns a list with all values multiplied by a number without using any loops. |
 | 12 | 12-roman_to_int.py | A function that converts a Roman numeral to an integer |
+| 13 | 100-weight_average.py | a function that returns the weighted average of all integers tuple `(<score>, <weight>)`|
