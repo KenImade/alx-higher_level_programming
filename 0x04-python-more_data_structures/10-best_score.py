@@ -4,4 +4,12 @@ def best_score(a_dictionary):
     if a_dictionary is None or not a_dictionary:
         return "None"
     else:
-        return max(a_dictionary, value = lambda x: a_dictionary[x])
+        max = 0
+        name = ""
+        for k, v in a_dictionary.items():
+            if a_dictionary[k] > max:
+                max = a_dictionary[k]
+                name = k
+
+        return name
+
