@@ -18,3 +18,4 @@ The aim of this project is to learn the folliwng:
 | 2 | [2-safe_print_list_integers.py](./2-safe_print_list_integers.py) | A function that prints the first `x` elements of a list and only integers |
 | 3 | [3-safe_print_division.py](./3-safe_print_division.py) | A function that divides 2 integers and prints the result |
 | 4 | [4-list_division.py](./4-list_division.py) | A function that divides element by element 2 lists |
+| 5 | [5-raise_exception.py](./5-raise_exception.py) | A function that raises a type exception |
