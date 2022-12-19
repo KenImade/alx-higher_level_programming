@@ -20,4 +20,5 @@ The aim of this project is to learn the folliwng:
 | 4 | [4-list_division.py](./4-list_division.py) | A function that divides element by element 2 lists |
 | 5 | [5-raise_exception.py](./5-raise_exception.py) | A function that raises a type exception |
 | 6 | [6-raise_exception_msg.py](./6-raise_exception_msg.py) | A function that raises a name exception with a messsage|
-| 7 | [100-safe_print_integer_err.py](./100-safe_print_integer_err.py) | A function that prints an integer | 
+| 7 | [100-safe_print_integer_err.py](./100-safe_print_integer_err.py) | A function that prints an integer |
+| 8 | [101-safe_function.py](./101-safe_function.py) | A function that executes a function safely |  
