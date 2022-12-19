@@ -13,4 +13,5 @@ The aim of this project is to learn the folliwng:
 
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
-| 0 | 0-safe_print_list.py | A function that prints `x` elements of a list |
+| 0 | [0-safe_print_list.py](./0-safe_print_list.py) | A function that prints `x` elements of a list |
+| 1 | [1-safe_print_integer.py](./1-safe_print_integer.py) | A function that prints an integer with `"{:d}".format()` |
