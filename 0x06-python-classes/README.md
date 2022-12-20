@@ -25,3 +25,4 @@ The aim of the project is to learn the following:
 | S/N | File(s) | Description(s) |
 | --- | ------- | -------------- |
 | 0 | 0-square.py | Write an example class `Square` that defines a square |
+| 1 | 1-square.py | A class that defines a square with an attribute size |
