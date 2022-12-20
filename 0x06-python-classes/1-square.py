@@ -4,6 +4,7 @@
 This module defines a Square class and initializes its size
 """
 
+
 class Square:
     """
     Square implementation
