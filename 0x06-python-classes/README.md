@@ -26,3 +26,4 @@ The aim of the project is to learn the following:
 | --- | ------- | -------------- |
 | 0 | 0-square.py | Write an example class `Square` that defines a square |
 | 1 | 1-square.py | A class that defines a square with an attribute size |
+| 2 | 2-square.py | A class `Square` with a private instance attribute `size` |
