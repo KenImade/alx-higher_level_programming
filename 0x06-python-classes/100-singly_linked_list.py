@@ -5,11 +5,11 @@ This module defines a Singly linked list
 
 
 class Node:
-    def __init__(self, data, next_node=None):
+    def __init__(self, data):
         """Defines a node for a singly linked list
         """
         self.data = data
-        self.next_node = next_node
+        self.next_node = None
 
     @property
     def data(self):
