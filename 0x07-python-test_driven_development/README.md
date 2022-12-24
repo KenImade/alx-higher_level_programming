@@ -11,3 +11,4 @@ The aim of this project is to learn the following:
 
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
+| 0 | 0-add_integer.py, tests/0-add_integer.txt | A function that adds 2 integers |
