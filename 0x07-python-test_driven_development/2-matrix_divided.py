@@ -32,10 +32,9 @@ def matrix_divided(matrix, div):
 
     matrix_divided = [x for x in matrix]
 
-    if ((len(matrix_divided[0])) != (len(matrix_divided[1]))):
-        raise TypeError('Each row of the matrix must have the same size')
-
     for line in matrix_divided:
+        if (len(line) != len(matrix_divided[0])):
+                raise TypeError('Each row of the matrix must have the same size')
         for index, element in enumerate(line):
             if not isinstance(element, (int, float)):
                 raise TypeError(
