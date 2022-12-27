@@ -1,0 +1,41 @@
+The ``Text Indentation`` module
+================================
+
+Using ``text_indentation``
+---------------------------
+
+First ``text_indentation`` from the ``Text Indentation`` module:
+
+	>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+Now use it:
+	>>> text_indentation('kehe? aodjjaiu: alkj.')
+	kehe?
+	<BLANKLINE>
+	<BLANKLINE>
+	 aodjjaiu:
+	<BLANKLINE>
+	<BLANKLINE>
+	 alkj.
+	<BLANKLINE>
+	<BLANKLINE>
+
+	>>> text_indentation(5)
+	Traceback (most recent call last):
+	TypeError: text must be a string
+	
+	>>> text_indentation('ded:adkj? ken')
+	ded:
+	<BLANKLINE>
+	<BLANKLINE>
+	adkj?
+	<BLANKLINE>
+	<BLANKLINE>
+	 ken
+
+	>>> text_indentation(['goat'])
+	Traceback (most recent call last):
+	TypeError: text must be a string
+
+	>>> text_indentation('Kenneth')
+	Kenneth
