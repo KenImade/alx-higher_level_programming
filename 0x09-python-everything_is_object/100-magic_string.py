@@ -3,9 +3,9 @@
 
 def call_counter(func):
     def helper():
-        helper.calls += 1
+        helper.call += 1
         return func()
-    helper.calls = 0
+    helper.call = 0
 
     return helper
 
