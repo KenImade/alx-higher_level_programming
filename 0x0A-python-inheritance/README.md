@@ -11,3 +11,4 @@ The aim of this project is to learn the following:
 | S/N | File(s) | Description |
 | --- | ------- | ----------- |
 | 1 | 0-lookup.py | A function that returns the list of available attributes and methods of an object |
+| 2 | 1-my_list.py | A class `MyList` that inherits from `list` |
